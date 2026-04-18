@@ -27,19 +27,25 @@
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,firebase" />
 </p>
 
 ### 💻 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,vscode,postman" />
+</p>
+
+<p align="left">
+  <!-- Extra tools not in skillicons -->
+  <img src="https://cdn.simpleicons.org/thunderclient" height="40" alt="Thunder Client"/>
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="ChatGPT"/>
 </p>
 
 ---
 
 ### 📂 Projects
 
-- 🔹 **Attendance Management System ** – Full stack project with user interaction and backend integration  
+- 🔹 **Attendance Management System** – Full stack project with user interaction and backend integration  
 - 🔹 **Library Management System (Book Haven)** – Book search, filtering, and AI-based recommendations  
 - 🔹 **Swiggy Clone UI** – Dynamic routing, API integration, and responsive design  
 
