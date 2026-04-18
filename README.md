@@ -18,22 +18,28 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
-HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Bootstrap | Material UI
+### 🚀 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,materialui" />
+</p>
 
-#### Backend & Database
-Node.js | MongoDB | MySQL | PostgreSQL
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql" />
+</p>
 
-#### Languages & Tools
-Java | Python | C | C++ | Git | GitHub | Postman | Linux
+### 💻 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,postman,linux" />
+</p>
 
 ---
 
 ### 📂 Projects
 
-- 🔹 **Healthcare Website** – Full stack project with user interaction and backend integration  
+- 🔹 **Attendance Management System ** – Full stack project with user interaction and backend integration  
 - 🔹 **Library Management System (Book Haven)** – Book search, filtering, and AI-based recommendations  
 - 🔹 **Swiggy Clone UI** – Dynamic routing, API integration, and responsive design  
 
