@@ -11,7 +11,7 @@
 
 - 🎓 MCA Graduate with strong foundation in Computer Science  
 - 💻 Full Stack Developer skilled in building modern web applications  
-- 🔭 Currently working on **Healthcare Web Application**  
+- 🔭 Currently working on **Web Application**  
 - 🌱 Improving skills in **React, Node.js, and Data Structures & Algorithms**  
 - ⚡ Focused on writing clean, scalable, and efficient code  
 - 🎯 Goal: To become a highly skilled and independent developer  
@@ -32,7 +32,7 @@
 
 ### 💻 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,git,github,vscode,postman" />
 </p>
 
 <p align="left">
