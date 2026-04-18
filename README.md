@@ -36,9 +36,11 @@
 </p>
 
 <p align="left">
-  <!-- Extra tools not in skillicons -->
-  <img src="https://cdn.simpleicons.org/thunderclient" height="40" alt="Thunder Client"/>
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="ChatGPT"/>
+  <!-- Thunder Client -->
+  <img src="https://img.icons8.com/fluency/48/api.png" height="40" alt="Thunder Client"/>
+
+  <!-- ChatGPT / OpenAI -->
+  <img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" alt="ChatGPT"/>
 </p>
 
 ---
